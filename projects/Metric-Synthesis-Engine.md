@@ -1,4 +1,4 @@
-# Metric Synthesis Engine (AI Data Scientist Case Study)
+# Metric Synthesis Engine (AI Engineer Case Study)
 
 **Repository:** [https://github.com/penghor315/metric-synthesis-engine](https://github.com/penghor315/metric-synthesis-engine)
 
